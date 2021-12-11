@@ -1,0 +1,27 @@
+gypark23 p2bomb grade: 60/60
+
+bomb300:
+  Phases Defused:   6
+  Explosions:       1
+  Bomb Score:       60
+
+bomb293:
+  Phases Defused:   4
+  Explosions:       23
+  Bomb Score:       29
+
+bomb306:
+  Phases Defused:   2
+  Explosions:       0
+  Bomb Score:       20
+
+bomb9:
+  Phases Defused:   0
+  Explosions:       1
+  Bomb Score:       0
+
+bomb65:
+  Phases Defused:   0
+  Explosions:       9
+  Bomb Score:       0
+

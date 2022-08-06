@@ -1,8 +1,0 @@
-# Project 1: Bitmanip
-
-The goal of this project was to modify bits.c so that it passes all the tests in btest without violating any of the coding guidelines. 
-
-Testing could be done by running
-```
-./btest
-```
